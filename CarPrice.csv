@@ -1,0 +1,7 @@
+Car_Name,Year,Present_Price,Kms_Driven,Fuel_Type,Selling_type,Transmission,Owner,Selling_Price
+Swift,2015,5.5,50000,Petrol,Dealer,Manual,0,4.5
+i20,2017,7.2,30000,Petrol,Dealer,Manual,0,6.0
+Creta,2019,12.5,20000,Diesel,Dealer,Manual,0,10.5
+City,2016,9.0,40000,Petrol,Dealer,Automatic,0,7.5
+Innova,2018,18.0,35000,Diesel,Dealer,Manual,0,15.0
+Alto,2014,3.5,60000,Petrol,Individual,Manual,1,2.5
